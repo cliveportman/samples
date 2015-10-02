@@ -1,0 +1,52 @@
+<p>Rocks are generally split into three categories:</p>
+<ol>
+  <li>igneous</li>
+  <li>metamorphic</li>
+  <li>sedimentary</li>
+</ol>
+
+<h2>Igneous rocks</h2>
+<p><strong>Igneous rocks are formed by the cooling of magma or lava.</strong> <a href="https://en.wikipedia.org/wiki/Magma">Magma</a> is basically lava underground, and igneous rocks cooled underground can be referred to <em>intrusive</em> rocks. When magma reaches the surface, it's known as lava and rocks which form from lava are known as <em>extrusive</em> (or volcanic) rocks.</p>
+
+<h2>Sedimentary rocks</h2>
+<p>Text to go here...</p>
+
+<h2>Metamorphic rocks</h2>
+<p>Text to go here...</p>
+
+<p>Within each category are numerous rock types, for example:</p>
+<ul>
+  <li>Igneous Rocks
+    <ul>
+      <li>Intrusive igneous rocks
+        <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Granite">Granite</a></li>
+          <li>Gabbro</li>
+        </ul>
+      </li>
+      <li>Extrusive igneous rocks
+        <ul>
+          <li>Basalt</li>
+          <li>Andesite</li>
+          <li>Pumice</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Sedimentary rocks
+    <ul>
+      <li>Sandstone</li>
+      <li>Limestone</li>
+      <li>Chalk</li>
+      <li>Shale</li>
+    </ul>
+  </li>
+  <li>Metamorbic rocks
+    <ul>
+      <li>Slate</li>
+      <li>Marble</li>
+      <li>Gneiss</li>
+      <li>Schist</li>
+    </ul>
+  </li>
+</ul>
